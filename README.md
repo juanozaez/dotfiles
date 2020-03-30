@@ -3,7 +3,9 @@
 Set of files to quickly set up your development applications on MacOs.
 
 #### Zsh
-Previously install FZF
+Install Exa
+Install FZF
+Install Zim
 Path = ~/.zshrc
 
 #### Vim
